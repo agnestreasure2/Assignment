@@ -57,7 +57,7 @@ const BottomTabs = () => {
                 }}
               >
                 <Image
-                  source={require("../assets/icons/search.png")}
+                  source={require("../assets/icons/message.png")}
                   style={{
                     width: 20,
                     height: 20,

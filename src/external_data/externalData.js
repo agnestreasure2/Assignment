@@ -8,14 +8,14 @@ const categories = [
     },
     {
       id: 1,
-      title: "Small Chops",
+      title: "Fries",
       image: require("../assets/images/food3.jpg"),
       price: 25,
       rating: 3.7
     },
     {
       id: 2,
-      title: "Fries",
+      title: "Protein",
       image: require("../assets/images/food2.jpg"),
       price: 15,
       rating: 4

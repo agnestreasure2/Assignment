@@ -21,19 +21,19 @@ const HeaderContent = () => {
       >
         <View style={{ flex: 1, justifyContent: "center" }}>
           <Image
-            source={require("../assets/icons/home.png")}
+            source={require("../assets/icons/menu.png")}
             style={{ width: 25, height: 25, tintColor: "white" }}
           />
         </View>
         <View style={{ paddingRight: 25, justifyContent: "center" }}>
           <Image
-            source={require("../assets/icons/home.png")}
+            source={require("../assets/icons/message.png")}
             style={{ width: 25, height: 25, tintColor: "white" }}
           />
         </View>
         <View style={{ justifyContent: "center" }}>
           <Image
-            source={require("../assets/icons/home.png")}
+            source={require("../assets/icons/bell.png")}
             style={{ width: 25, height: 25, tintColor: "white" }}
           />
         </View>
@@ -66,7 +66,7 @@ const HeaderContent = () => {
           </View>
           <View style={{ flex: 1, paddingLeft: 10, justifyContent: "center" }}>
             <Image
-              source={require("../assets/icons/home.png")}
+              source={require("../assets/icons/food.png")}
               style={{ width: 25, height: 25, tintColor: "red" }}
             />
           </View>

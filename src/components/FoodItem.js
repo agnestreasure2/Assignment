@@ -38,7 +38,7 @@ const FoodItem = ({ FoodItem, marginLeft, marginRight }) => {
         >
           <View style={{ justifyContent: "center", paddingRight: 6 }}>
             <Image
-              source={require("../assets/icons/home.png")}
+              source={require("../assets/icons/star.png")}
               style={{ width: 14, height: 14 }}
             />
           </View>
